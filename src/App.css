@@ -1,0 +1,129 @@
+.cim{
+  position: relative;
+  top:200px
+}
+.rim{
+  position: absolute;
+  top:-30px;
+
+}
+.con{
+  height:800px;
+}
+.sin{
+  height:500px;
+  position: relative;
+  z-index: 2;
+}
+.conta{
+  height:300px;
+  width: 200px;
+  padding-left: 0px;
+}
+.conta:hover{
+  height:300px;
+  width: 200px;
+  position: relative;
+  bottom: 30px;
+  box-shadow: 5px 5px 5px 5px;
+}
+.html{
+  width:180px;
+  position: relative;
+  right:-12px;
+  top:20px;
+}
+.css{
+  width:290px;
+  position: relative;
+  right:43px;
+  top:0px;
+}
+.java{
+  width:190px;
+  position: relative;
+  right:-10px;
+  top:15px;
+}
+.react{
+  width:200px;
+  position: relative;
+  right:0px;
+  top:70px;
+}
+.react-text{
+  font-weight: 800;
+  position: relative;
+  left:30px;
+  bottom:200px;
+}
+.reac{
+  position: relative;
+  top:20px
+}
+.htm{
+  position: relative;
+  bottom:20px;
+}
+.cs{
+  position: relative;
+  bottom:35px;
+}
+.jav{
+  position: relative;
+  bottom:-20px;
+}
+.card-pic{
+  width: 350px;
+  height:200px;
+}
+.cards{
+  width:74px;
+  float: left;
+  height:500px;
+}
+.end{
+  width:400px;
+  float: left;
+}
+.end:hover{
+  width:400px;
+  float: left;
+  position: relative;
+  bottom: 30px;
+  box-shadow: 2px 2px 2px 2px;
+}
+.ends{
+  width:400px;
+  float: right;
+}
+.ends:hover{
+  width:400px;
+  float: right;
+  position: relative;
+  bottom: 30px;
+  box-shadow: 2px 2px 2px 2px;
+}
+
+.conta{
+  height:300px;
+  width: 200px;
+  padding-left: 0px;
+}
+.conta:hover{
+  height:300px;
+  width: 200px;
+  position: relative;
+  bottom: 30px;
+  box-shadow: 5px 5px 5px 5px;
+}
+.but{
+  position: absoulte;
+  left:600px;
+  bottom:100px
+}
+.bute{
+  position: absoulte;
+  left:600px;
+  top:100px
+}
